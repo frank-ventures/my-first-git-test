@@ -10,3 +10,7 @@ First, we cloned down the repository from Git to my local machine.
 
 Then, I created an index.html file.
 Nothing special, it was just boilerplate really.
+
+After, style.css was created to make it look super jazzy and ultra-modern. There's even some 'hover' effects thrown in for true MySpace measure.
+
+Enjoy.

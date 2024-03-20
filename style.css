@@ -1,0 +1,26 @@
+* {
+  max-width: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: blanchedalmond;
+  text-align: center;
+}
+body {
+  background-color: rgb(138, 8, 138);
+  display: flex;
+  flex-direction: column;
+}
+
+h1:hover {
+  color: rgb(211, 69, 69);
+}
+
+h4 {
+  font-style: italic;
+}
+
+h4:hover {
+  text-decoration: underline;
+  border: 3px solid white;
+  padding: 5px;
+  color: white;
+}
